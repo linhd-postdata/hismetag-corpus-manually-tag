@@ -1,0 +1,122 @@
+MOCEDADES DE DON RODRIGO
+Al loro con estos dos pedazo de persName (¿qué hacemos con el punto detrás de "guiben"?)
+fuesse para el <persName><roleName>rre-
+y moro</roleName> guiben. <roleName>Senor de <placeName>ma-
+drid</placeName></roleName></persName> E fallo alla a <persName><roleName type="honorific">don~a</roleName> al-
+dara sanchez. <roleName type="_family">fija del <persName><roleName>rey</roleName> <roleName type="honorific">don</roleName>
+sancho Ramjrez de <placeName>navarra</placeName></persName></roleName></persName>.
+
+HISTORIA DE LOS GODOS
+imperio romano ¿organizacion o lugar? -> org
+Magog y gog: son lugar, personas y pueblo al mismo tiempo -> en el texto se tratan como pers
+
+Padre e hijo en sentido religioso: _family o _nickname_deity? -> parece que prima la parte religiosa frente a la familiar...
+creye<n>tes q<ue>l <persName type="_nickname_deity">padre</persName>
+en magestat[^2,] e en et<er>njtat era mayo<<r>>
+e p<r><<i>>m<er>o q<ue> en <persName type="_nickname_deity">fillo</persName> /[^2,] e el <persName type="_nickname_deity"><roleName><santo></roleName> sp<irit>u</persName> q<ue> no e-ra
+<persName type="_deity">dios</persName> / nj era de la substancia d<e>l
+<persName type="_nickname_deity">padre</persName> / mas q<ue> era creado por el <persName type="_nickname_deity">fi-lio</persName>
+/ dado a minjst<er>io del <persName type="_nickname_deity">padre</persName> / e / del
+<persName type="_nickname_deity">filio</persName> /
+
+
+
+Respuso el infant<e>; nu<n>ca uistes meior.
+
+¿Mio fiio, mi primo son <roleName>? -> roleName sin el posesivo
+
+la t<ie>rra de babilon|| la t<ie>rra de egipto -> todo placeName
+
+<persName>Felippo <roleName>el Rey de <placeName>g<re>c'ia</placeName></roleName></persName>; esse es <roleName type="_family">mi padre</roleName>.
+<persName>Olimpias <roleName>la Reyna</roleName></persName>; essa es <roleName type="_family">mi madre</roleName>.
+
+Israel es pers, place y org:
+ <name>fijos; de israhel</name> -> son un pueblo, por lo que orgName
+ 
+Menciones alegóricas: no son exactamente personas:
+Yua aguisando; <persName><roleName type="honorific">don</roleName> europa</persName> sus claues 
+ Tollia alos cauallos; <persName><roleName type="honorific">don</roleName> febus</persName> sus dogales.
+ -> optamos por persName
+ 
+LIBRO DE ALEXANDRE
+"Infante": ¿niño o cargo nobiliario? -> cargo
+Los colpes luego dira<n>; qual es bon cauallero. (cauallero es roleName?) -> sí
+<persName>Olimpias <roleName>la Reyna</roleName></persName>; essa es <roleName type="_family">mi madre</roleName>.
+<persName>Olimpias la <roleName>Reyna</roleName></persName>; essa es <roleName type="_family">mi madre</roleName>.
+% No<n> es m<er>cador; ni<n> cl<er>igo de scola.-> ¿son roleName? -> sí
+Peon & cauall<er>o; todos bie<n> aguisados. ¿roleName? -> sí
+Que bie<n> cab<r><<i>>en so ella; q<u><<i>>nie<n>tos caualleros.
+Fue del fijo de la u<ir>gen; la sangre uertida. (¿virgen? ¿fijo de la virgen?)
+
+ ffijo se de bona ue<n>tura; ouierdes de seer.  No es verdaderamente "hijo" en el sentido literal
+
+
+<persName>Clit<us></persName> & <persName>tholomeus</persName>; <roleName>dos uassallos leales</roleName> -> mejor evitar entidades discontinuas
+
+Libro del buen amor
+ally <roleName>los' abogados'</roleName> dixiero<n> cont<r><<a>> el <roleName>juez'</roleName>
+ally van <roleName>agostyn<e>s'</roleName> E diz'en sus' ca<n>tor<e>s' ¿Debería ser orgName (hace alusión a monjes de la orden? -> sí
+Pero en ese caso, "españoles" tb es orgName? -> sí 
+Aly van de <orgName>san pablo</orgName> <orgName>los' pedricador<e>s'</orgName>
+
+-----
+MIO CID. Dudas generales: las denominaciones de dios (santo padre, el criador); los addName (¿cuánto?)
+¿Este "Dios" que es prácticamente interjección es persName también?
+<persName type="_deity*">Dios</persName> q<ue> bue<n> vassalo si ouiesse bue<n> Sen<n>or
+
+Tu[ ]eres <roleName>Rey delos Reyes</roleName> & <roleName>de todel mundo padre</roleName>
+
+Fablo <persName type="nickname">myo c'id <addName>el q<ue> en bue<n> ora c'inxo espada<addName></persName>
+<persName>Marti<n> antolinez <addName>el burgales co<n>plido</addName></persName>
+
+<persName type="nickname">mio c'id <addName>el campeador</addName></persName>
+Mas dezid nos del <persName >c'id</persName> de q<ue> sera pagado (qué hacemos con el artículo "del")
+Amos ([^3todos]) tred al campeador co<n>( )tado ("al")
+<persName type="nickname">El bue<n> canpeador</persName> q<ue> en bue<n> ora nasco
+<persName type="nickname">El[ ]bue<n> campeador</persName> 
+Vino pora [^la] tienda del q<ue> en bue<n> ora nasco
+
+<roleName>Tres Reyes de <placeName>arabia</placeName></roleName> <- No es es exactamente un rol (un cargo) sino una denominación -> orgName
+
+<orgName>moros</orgName> yazen muertos de biuos pocos veo
+Los <orgName>moros</orgName> & la[^3s] <orgName>moras</orgName> vender non los pod[^r]emos -> ¿Los moros son orgName?
+
+AMU
+<persName><roleName type="honorific">Don</roleName> Felip <roleName>electo de <placeName>Seuillia</placeName></roleName></persName> la conf.
+<persName><roleName type="honorific">Don</roleName> Martin Fernandez <roleName>notario</rolename> en <placeName>Leon</placeName></persName> la conf.
+La <orgName>eglesia de <placeName>Leon</placeName></orgName>
+<persName>Roy Lopez de Mendoça <roleName>almirage de la mar</roleName></persName> la conf.
+<persName><roleName type="honorific">Don</roleName> Alfonso <roleName type="_family">fiio del <persName><roleName>Rey</roleName> Iohan <roleName>emperador de <placeName>Costantinopla</placeName></roleName></persName> e de la <persName><roleName>emperatriz</roleName> <roleName type="honorific">donna</roleName> Berenguella</persName></roleName> <roleName>comde <placeName>Do</placeName></roleName> <roleName>uassallo del <roleName>Rey</roleName></roleName></persName> conf.
+<persName><roleName type="honorific">Don</roleName> Ferrando <roleName>obispo de <placeName>Palencia</placeName></roleName> <roleName>notario del Rey</roleName> en <placeName>Castiella</placeName></persName> conf.
+<persName>Garci Perez de <placeName>Toledo</placeName> <roleName>notario del rey</roleName> en el <placeName>Andaluzia</placeName></persName> conf.
+<orgName>eglesia de <placeName>Carthagena</placeName></orgName>
+
+LAZARILLO
+Quien piensa q<ue>l
+soldado q<ue> es primero del escala: tiene mas
+gusto muy ruynme<n>te el <persName><roleName type="honorific">sen~or</roleName> <roleName>do<n></roleName>
+fulano</persName>
+a mi llama<n> <persName>Lazaro de <geogName>Tormes</geogName> <roleName type="_family">hijo de
+<persName>Thome Go<n>c'ales</persName>, y de <persName>Antona Perez</persName></persName> natu-
+rales de <placeName>Tejares</placeName>, aldea de <placeName>Salama<n>ca</placeName>
+Mi <roleName>padre</roleName>
+Sem<pronio>. mira: <persName>nero</persName> de <geogName>tarpeya</geogName> a <placeName>roma</placeName>
+
+CELESTINA
+lee los historiales estudia los
+filosofos: mira los poetas: llenos esta<n> los libros d<e> sus vi-
+les y malos enxe<m>plos: y d<e>las caydas q<ue> lleuaron los q<ue> en
+algo como tu las reputaro<n>
+
+Por cierto los gloriosos <roleName>sa<n>tos</roleName> q<ue> se deleyta<n> e<n>la visio<n> diuina (santos es orgName o roleName)
+
+rey mio: turbado me has: no te puedo (los usos metafóricos de rey no los etiqueto como role)
+
+HISTORIA TROYANA
+<persName>Laomedon</persName> <roleName>seny-or</roleName> de aquesti Regno 
+
+
+Idea: detección de presentación de personajes. Persname o name a secas sin rol -> personaje conocido. Con role, presentación. Bucifal.
+
+
+

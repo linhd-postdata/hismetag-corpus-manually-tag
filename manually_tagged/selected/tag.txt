@@ -1,0 +1,4 @@
+     46 Historia_Troyana.xml:</persName>
+     20 Historia_Troyana.xml:</roleName>
+     12 Historia_Troyana.xml:</placeName>
+      3 Historia_Troyana.xml:</orgName>

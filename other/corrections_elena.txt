@@ -1,0 +1,125 @@
+HISTORIA TROYANA
+OK Los <orgName> de pueblos etc van con type="_collective" (los griegos)
+
+Línea 29
+OK fillo de heson
+Yo he etiquetado los roles de familia con su pariente correspondiente dentro (a la manera de "rey de Castilla), o sea el roleName completo sería: <roleName type="_family">fillo de
+<persName>heson</persName></roleName> 
+
+
+Línea 91
+OK Muyt caro <persName>Nepot</persName> 
+Nepot es "sobrino", no es NP aunque lo parezca (no es un señor llamado Nepot)
+
+Línea 190
+tomo consigo muchos no-bles
+OK Falta roleName
+
+200
+Puerto de simeonta
+OK Falta etiqueta placeName "_facility"
+
+265
+los griegos
+OK Falta orgName collective
+
+381
+ <persName>Regno de Oethes</persName>
+OK Solo es persName Oethes
+
+396
+OK filla
+Falta roleName "_family". En estos casos yo he etiquetado como: 
+<persName><roleName type="_family">filla</roleName> Medea</persName>
+pero no te creas que no tengo dudas al respecto...
+________________________________________________
+POEMA DEL MIO CID
+
+41 (et al)
+<persName type="_nickname">El <roleName>campeador</roleName></persName>
+Yo "campeador" lo he considerado persName type="nickname" sin más (no roleName) pero podemos discutirlo.
+
+=> era despiiiiste, xa mi tb es nick no role !!!
+
+
+123, 143 (et al)mo
+moros y xristianos
+Falta type="_collective" dentro del <orgName>
+
+=> era despistacho. Esta gente escribe muchismo mallll "x<r><<i>><sti>anos" wft??
+
+_________________________________________________
+LIBRO DEL BUEN AMOR
+
+21
+no<n> g<e>lo p<r><<e>>c'io <persName>don xymjo</persName>
+Falta honorific en don SURE
+
+205
+juez' de <placeName>ca<r>tajena</placeName> YAS
+Yo he considerado todo <roleName>, aunque ahora me haces dudar... En cualquier caso, juez es roleName
+ 
+233
+<persName>jnoc'enc'io q<ua>rto</persName>
+quarto creo que debería ser <addName> OK
+
+259 y 261
+<name role="institución">ygl<es>ia</name> 
+Debfiería ser <orgName> sin más (creo que son restos de etiquetado "antiguo") ELLO ES SON RUINAS!!!
+
+282
+vaq<ue>riz'o 
+<roleName>
+
+288
+don carnal
+Falta <persName>
+
+289 
+<naem>
+Mejor <name> ;-) AMEN
+
+298
+ladron
+roleName
+
+313
+doña merienda
+persName (mi persName favorito) 
+ 
+362
+rromeros
+roleName, diría
+
+386
+rrabies
+roleName Q RRABIA!!
+
+391
+rrabadan
+roleName :O
+
+430 
+pastores
+roleName
+
+494
+<persName><roleName>abad</roleName>benjto</persName
+Este caso da pa discusión interesante: para mí no es Benito sino bendito o bien "benito" en el sentido de "benedictino" (está nombrando órdenes benedictinas). Un poco más abajo aparecen más benitos: o qué casualidad, o no es un nombre de persona.
+SEGURO Q NO ES NB DE PERSONA!! A no ser q haya alguno q se llame Beni Gil !!
+
+494-505
+Todo este fragmento de órdenes es interesante y particularmente enjundioso (qué es orgName, qué no). Podemos mirarlo con calma según salga la evaluación.
+
+536
+<persName role="rey">el loc'ano<persName>
+Me sobra esta etiqueta (pero no sé si la has puesto por algo que se me escapa) <= NPI de donde sale
+ 
+ 
+
+
+
+
+
+
+

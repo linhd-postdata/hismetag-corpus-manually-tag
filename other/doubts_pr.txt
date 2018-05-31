@@ -1,0 +1,34 @@
+# buen amor
+
+confessor benjto
+<orgName>santa ygl<es>ia</orgName>
+<persName type="_deity">jh<es>u xp<ist>o</persName>
+<name>nosareco de gujdo</name>
+<persName>jnoc'enc'io q<ua>rto</persName>
+<name>d<omin>go de rram[o]s</name>'
+
+<roleName>enperador<e>s'</roleName> <=apostrophe thing inside?
+
+% <orgName>orden de santyago</orgName> co<n> la del ospytal
+calatraua E alca<n>tara / co<n> la de buenaval
+
+1250	»Esquilman quanto pueden a quien se les allega,		
+»non an de que te fagan servisio que te plega,		
+»a grand' señor conviene grand' palaçio e grand' vega,		
+»para grand' señor non es posar en la bodega.»		
+
+1251	«Señor», disen los clérigos, «non quieras vestir lana,		
+»estragaríe un frayle quanto el convento gana,		
+
+# mio cid
+
+<placeName type="_facility"><santa> M<ari><<a>></placeName>
+Sen<n>a[^2s] <roleName>duen<n>as</roleName> las t<r><<a>>en & aduzen las adela<n>t
+<persName type="_nickname">myo c'id el ca<m>peador</persName> <= hace falta addName para el campeador o todo es el nickname
+<placeName type="_facility">san p<er>o</placeName>
+<persName type="_deity"><santa> t<r><<i>>nidad</persName>
+
+# troyana
+
+hauidos entre los <orgName>gri-egos</orgName>
+et los <orgName>Troya-nos.</orgName>
